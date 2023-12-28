@@ -58,19 +58,37 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Abhilasha supe</td>
+    <td>Sagar Kori</td>
   </tr>
   <tr>
     <td>GitHub</td>
-    <td>https://github.com/abhilashasupe</td>
+    <td>https://github.com/sagarkori143</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/abhilasha-supe-b6129424b/</td>
+    <td>https://www.linkedin.com/in/sagar-kori-02280a258/</td>
   </tr>
   <tr>
     <td>College</td>
-    <td>IIIT SURAT</td>
+    <td>IIIT Jabalpur</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Riya Sharma</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/riasharmma</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/riya-sharma-b15611244/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>JInstitute of Technical Education and Research,Bhubaneshwar</td>
   </tr>
 </table>
 
